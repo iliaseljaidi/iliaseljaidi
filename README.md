@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=140&section=header" width="100%" />
+<img src="assets/banner.jpg" width="100%" alt="banner" />
+
+<img src="assets/gengar.jpg" width="90" alt="gengar" />
 
 # Hi 👋, I'm Ilias
 
@@ -16,6 +18,10 @@
 
 <h2 align="center">🚀 About Me</h2>
 
+<table>
+<tr>
+<td width="60%">
+
 I'm a Computer Science student at the **University of Portsmouth** (graduating 2028), focused on software development and building projects that solve real problems.
 
 I speak **English, Arabic, French and Spanish**, and I've lived in Tangier, Madrid and now Portsmouth.
@@ -27,6 +33,15 @@ Right now I'm:
 - Working toward internships and technical placements
 
 My goal is simple: write clean code, build reliable software, and grow into an engineer who creates things that last.
+
+</td>
+<td width="40%">
+
+<img src="assets/about.jpg" width="100%" alt="about" />
+
+</td>
+</tr>
+</table>
 
 ---
 
