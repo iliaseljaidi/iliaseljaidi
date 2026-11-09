@@ -1,80 +1,67 @@
-# Hi, I'm Ilias El Jaidi 👋
+<div align="center">
 
-### Computer Science Student · ML Engineer · Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=140&section=header" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilias-el-jaidi-8a7301332/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliaseljaidi/Portfolio)
+# Hi 👋, I'm Ilias
 
----
+**Computer Science Student · Software Developer**
 
-## 🚀 About Me
+`Build things that matter`
 
-I'm a **Computer Science student at the University of Portsmouth (Class of 2028)** with a strong passion for **AI/ML**, **full-stack development**, and **fintech innovation**. I combine academic rigor with hands-on project experience, constantly building and learning at the intersection of software engineering and intelligent systems.
+<sub>Building clean, useful software and learning something new with every project.</sub>
 
-- 🤖 Building ML models and exploring real-world AI applications
-- 💻 Developing full-stack web applications with modern frameworks
-- 📊 Experienced in data annotation and preprocessing pipelines
-- 🌱 Currently deepening expertise in deep learning and cloud deployment
-- 🎯 Seeking internship/placement opportunities in AI, software engineering, or fintech
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🚀 About Me</h2>
 
-**Languages**
+I'm a Computer Science student at the **University of Portsmouth** (graduating 2028), focused on software development and building projects that solve real problems.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I speak **English, Arabic, French and Spanish**, and I've lived in Tangier, Madrid and now Portsmouth.
 
-**Frameworks & Tools**
+Right now I'm:
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- Building personal projects and growing my portfolio
+- Strengthening my fundamentals in **programming, algorithms and systems**
+- Working toward internships and technical placements
 
-**Focus Areas**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Fintech](https://img.shields.io/badge/Fintech-00897B?style=flat-square&logo=stripe&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full--Stack-6DB33F?style=flat-square&logo=spring&logoColor=white)
+My goal is simple: write clean code, build reliable software, and grow into an engineer who creates things that last.
 
 ---
 
-## 📌 Featured Projects
+<h2 align="center">🤝 Connect</h2>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Portfolio](https://github.com/iliaseljaidi/Portfolio) | Personal portfolio showcasing CS & ML work | HTML, CSS, JS |
-| More coming soon... | Currently building exciting projects | Stay tuned! |
-
----
-
-## 📈 GitHub Stats
-
-![Ilias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliaseljaidi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliaseljaidi&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-## 💡 What I Bring to the Table
+<h2 align="center">💻 Tech Stack</h2>
 
-- ✅ Strong foundations in algorithms, data structures, and software design
-- ✅ Practical ML experience with real datasets and annotation pipelines
-- ✅ Adaptable team player with a growth mindset
-- ✅ Passionate about fintech and AI-driven solutions
-- ✅ Fast learner who thrives in fast-paced, collaborative environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,git,github,linux,vscode&theme=dark" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+<h2 align="center">📊 GitHub Stats</h2>
 
-I'm open to **internships**, **collaborations**, and **entry-level opportunities** in AI, software engineering, or fintech.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</p>
 
-📧 Reach me via [LinkedIn](https://www.linkedin.com/in/ilias-el-jaidi-8a7301332/) — I'd love to chat!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</p>
 
 ---
 
-*"Always learning, always building."*
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Graph" width="100%" />
+</p>
