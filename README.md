@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="banner" />
-
-<img src="assets/gengar.jpg" width="90" alt="gengar" />
+<img src="https://raw.githubusercontent.com/iliaseljaidi/iliaseljaidi/main/assets/IMG_7366.JPG" width="100%" alt="banner" />
 
 # Hi 👋, I'm Ilias
 
@@ -37,7 +35,7 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 </td>
 <td width="40%">
 
-<img src="assets/about.jpg" width="100%" alt="about" />
+<img src="https://raw.githubusercontent.com/iliaseljaidi/iliaseljaidi/main/assets/IMG_7365.JPG" width="100%" alt="about" />
 
 </td>
 </tr>
