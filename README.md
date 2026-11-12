@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iliaseljaidi/iliaseljaidi/main/assets/IMG_7366.JPG" width="100%" alt="banner" />
-
 # Hi 👋, I'm Ilias
 
 **Computer Science Student · Software Developer**
