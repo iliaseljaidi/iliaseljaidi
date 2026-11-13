@@ -44,9 +44,9 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/iliaseljaidi"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="[https://https://www.linkedin.com/in/ilias-el-jaidi-8a7301332/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:iliaseljaidi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
