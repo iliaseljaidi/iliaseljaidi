@@ -62,11 +62,11 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=iliaseljaidi&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliaseljaidi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -74,5 +74,5 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iliaseljaidi&theme=github-dark&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Graph" width="100%" />
 </p>
