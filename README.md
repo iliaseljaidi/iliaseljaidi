@@ -66,7 +66,7 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliaseljaidi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img src="stats/leaderboard_by_lines.png" alt="Language Stats" width="80%" />
 </p>
 
 ---
@@ -74,5 +74,5 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iliaseljaidi&theme=github-dark&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/58a6ff/iliaseljaidi" alt="Contribution graph" width="100%" />
 </p>
